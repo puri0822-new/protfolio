@@ -1,3 +1,4 @@
 abc
 cba
 acb
+bca
