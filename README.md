@@ -4,3 +4,4 @@ acb
 bca
 bac
 cab
+abcd
