@@ -6,3 +6,4 @@ bac
 cab
 abcd
 acbd
+aDCB
