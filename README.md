@@ -1,10 +1,1 @@
-abc
-cba
-acb
-bca
-bac
-cab
-abcd
-acbd
-aDCB
-s8
+hello universe!
