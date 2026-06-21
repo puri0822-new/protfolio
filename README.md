@@ -4,6 +4,3 @@ hello universe!
 23
 88
 88
-88
-55
-78
